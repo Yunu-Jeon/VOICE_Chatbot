@@ -1,8 +1,12 @@
 # **Voice Chatbot Practice**
 ## 1. 프로젝트명
 시작이 제일 무서워 미룬이
+
+**제목 출처**
 https://www.youtube.com/watch?v=yx1z7MbbKyM&list=RDyx1z7MbbKyM&start_radio=1
-<img width="2753" height="1358" alt="스크린샷 2026-03-20 010749" src="https://github.com/user-attachments/assets/354476cc-3c18-437f-b3fe-b768dd4a0d8f" />
+<img width="2840" height="1423" alt="image" src="https://github.com/user-attachments/assets/9b6d824f-8ceb-477b-bf1b-1cee63b50fc2" />
+
+
 
 ## 2. 상세 설명
 시간은 부족하고 할 일은 많지만  어디서부터 손을 대야 할 지 몰라 미루기를 택하는 사람들을 위한 프로젝트이다. 사용자가 미루고 있는 일을 음성으로 전달하면, 그 일을 당장 실천할 수 있는 5개의 단계로 쪼개어 준다.
